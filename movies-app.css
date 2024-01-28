@@ -1,0 +1,29 @@
+h1 {
+    color: orangered;
+}
+
+body {
+    background-color: lightyellow;
+}
+
+table {
+    border: solid 3px black;
+}
+
+td {
+    border: solid 3px black;
+    width: 200px;
+    text-align: center;
+}
+
+.remove {
+    display: block;
+    width: 100%;
+    background-color: white;
+    color: crimson;
+    font-weight: bold;
+}
+
+button {
+    cursor: pointer;
+}
